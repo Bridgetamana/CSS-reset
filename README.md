@@ -1,2 +1,2 @@
 # CSS-reset
-A simple CSS reset for my personal projects
+A base line CSS reset for css projects.
